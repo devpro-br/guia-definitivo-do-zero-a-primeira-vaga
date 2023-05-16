@@ -156,3 +156,88 @@
 - [Uma pouco mais de JS](#wip)
   - [Iniciando com funções (functions) no JS](#wip)
   - [Primeiros passos com Objetos no JS](#wip)
+
+## TRILHA FRONTEND - Tabela de Conteúdo
+
+![Trilha Frontend](./imagens/02-trilha-frontend.jpg)
+
+- [Mobile first](#wip)
+
+  - [Entender o conceito de responsividade](#wip)
+  - [Media Queries](#wip)
+
+- [Web Feliz](#wip)
+
+  - [🏆 Criar um portfólio usando web templates](#wip)
+  - [Web templates](#wip)
+  - [Criando páginas com markdown (Vuepress ou HUGO)](#wip)
+  - [Visão geral de frameworks CSS](#wip)
+  - [Bootstrap & Biblioteca de componentes](#wip)
+
+- [Ferramentas & Boas práticas](#wip)
+
+  - [npm](#wip)
+  - [package.json](#wip)
+  - [Linter, code & style](#wip)
+
+- [JS & Páginas Web](#wip)
+
+  - [Entendendo o DOM](#wip)
+  - [Entendendo o document.write](#wip)
+  - [Entendendo o createElement, createTextNode e appendChild](#wip)
+  - [Entendendo o seletores de elementos (querySelector)](#wip)
+  - [Entendendo o textContent, innerHTML, setAttribute e classList](#wip)
+  - [Entendendo eventos com addEventListener](#wip)
+  - [Entender o Callback](#wip)
+  - [Entender Promise](#wip)
+  - [Entender uma chamada a uma API para atualizar a página](#wip)
+
+    - [🏆 Obter a quantidade de estrelas de um repositório do github](#wip)
+    - [🏆 Obter a lista de pokemons](#wip)
+
+  - [Entender uma imitação do backend com API Mock](#wip)
+
+    - [🏆 Um CRUD de tarefas 100% JS](#wip)
+    - [Fetch API](#wip)
+
+- [Mais conceitos CSS](#wip)
+
+  - [Regras do @import](#wip)
+  - [Mais seletores](#wip)
+  - [Mais CSS units](#wip)
+  - [Webpack para empacotamento](#wip)
+  - [SASS para pré processamento de CSS](#wip)
+
+- [Mais Layout CSS](#wip)
+
+  - [Position & Float](#wip)
+  - [Aspect-ratio](#wip)
+  - [box-sizing](#wip)
+
+- [Framework JS com VueJS](#wip)
+
+  - [Quais problemas um framework JS resolve?](#wip)
+    - [Visualização, Dados, Eventos](#wip)
+    - [Estrutura e organização, utilizar JS moderno, web componentes](#wip)
+  - [Olá mundo VueJS e entendendo o v-bind](#wip)
+  - [v-if para exibição condicional](#wip)
+  - [v-for para renderizar listas](#wip)
+  - [v-on para executar código com eventos](#wip)
+  - [:class & :style](#wip)
+  - [propriedades computadas (computed)](#wip)
+  - [v-model e atribuição dupla de valores (two ways data binding)](#wip)
+  - [Mais formas de uso do v-model](#wip)
+  - [Criando um toast para melhor UI](#wip)
+  - [Primeiro componente com VueJS](#wip)
+  - [Transformando tudo em componentes (vue loader)](#wip)
+
+- [Frontend no mundo real](#wip)
+
+  - [Criando projetos utilizando o npm create](#wip)
+  - [Processo de criação (build)](#wip)
+  - [Variáveis de ambiente](#wip)
+  - [Estrutura e organização](#wip)
+  - [Biblioteca de componentes](#wip)
+  - [NVM](#wip)
+
+- [Deploy de projetos reais na Vercel](#wip)
