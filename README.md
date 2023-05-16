@@ -1,6 +1,10 @@
 # guia-definitivo-do-zero-a-primeira-vaga
 
-![Trilha Fundamental](./imagens/01-trilha-fundamental.jpg)
+![Trilha Fundamental](./imagens/01-trilha-fundamental.png)
+
+- 👉 Gostou? deixa sua 🌟 ou segue este repo para receber atualizações
+- 👉 Quer ajudar? [Cria uma 🐞 Issue](https://github.com/devpro-br/guia-definitivo-do-zero-a-primeira-vaga/issues) com o que quiser falar ou **faz um PR**
+- 🚧 Trabalho em andamento! Sua ajuda faz a diferença
 
 ## **Motivações**
 
@@ -159,7 +163,7 @@
 
 ## TRILHA FRONTEND - Tabela de Conteúdo
 
-![Trilha Frontend](./imagens/02-trilha-frontend.jpg)
+![Trilha Frontend](./imagens/02-trilha-frontend.png)
 
 - [Mobile first](#wip)
 
