@@ -89,7 +89,17 @@
 
 - [Terminal & Comandos](#terminal-&-comandos)
 
-  - [WIP](#wip)
+  - [Por que um terminal Linux?](#wip)
+  - [Por que a linha de comando?](#wip)
+  - [Navegação entre pastas](#wip)
+  - [Operador de piping](#wip)
+  - [Saída padrão (stdout) e saída de erro (stderr)](#wip)
+  - [Vim vs Nano](#wip)
+  - [Alias e Links](#wip)
+  - [Permissões de arquivos](#wip)
+  - [Criação de chaves](#wip)
+  - [Processos](#wip)
+  - [Atalhos de teclado](#wip)
 
 - [Arquivo & Pastas](#arquivo-&-pastas)
 
