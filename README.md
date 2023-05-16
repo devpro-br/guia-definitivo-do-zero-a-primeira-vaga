@@ -81,7 +81,7 @@
   - [Como funcionam as páginas web](#como-funcionam-as-páginas-web)
   - [URL ou Link: você sempre usa, mas não prestou atenção](#wip)
   - [Domínio, IP e Domain Server Name (DNS)](#wip)
-  - [Página web estática](#pagin-web-estatica)](#wip)
+  - [Página web estática](#pagin-web-estatica)
 
 - [Terminal & Comandos](#terminal-&-comandos)
 
