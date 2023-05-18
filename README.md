@@ -16,6 +16,11 @@
 - Hard vs Soft Skills
 - Aprender fazendo algo real
 
+## Links relacionados
+
+- 🚧 [Download do e-book](https://l.dev.pro.br/lp-ebook-rpv?utm_source=github&utm_campaign=link-readme)
+- 🚧 [Playlist vídeos trilha fundamental](https://www.youtube.com/watch?v=o10Rpqefe_o&list=PLA05yVJtRWYTfRv8jaLS4XJ3oQtvLFakj)
+
 ## FUNDAMENTAL - Tabela de Conteúdo
 
 - [Aprender a aprender](#aprender-a-aprender)
