@@ -14,7 +14,7 @@
 - Não separar a sintaxe da lógica de programação
 - Não separar JS e JS para páginas web
 - Hard vs Soft Skills
-- Aprender fazendo algo real
+- Aprender fazendo algo real (projetos práticos)
 
 ## Links relacionados
 
@@ -174,6 +174,8 @@
 
 - [Uma pouco mais de JS](#wip)
   - [Iniciando com funções (functions) no JS](#wip)
+  - [Parâmetros e argumentos](#wip)
+  - [Funções anônimas e funções flechas (arrow functions)](#wip)
   - [Primeiros passos com Objetos no JS](#wip)
 
 ## TRILHA FRONTEND - Tabela de Conteúdo
@@ -202,6 +204,7 @@
 - [JS & Páginas Web](#wip)
 
   - [Entendendo o DOM](#wip)
+  - [Adicionando JS na página](#wip)
   - [Entendendo o document.write](#wip)
   - [Entendendo o createElement, createTextNode e appendChild](#wip)
   - [Entendendo o seletores de elementos (querySelector)](#wip)
@@ -216,6 +219,8 @@
 
   - [Entender uma imitação do backend com API Mock](#wip)
 
+    - [Entender Client-side vs Server-side](#wip)
+    - [Dados com JSON (JavaScript Object Notation)](#wip)
     - [🏆 Um CRUD de tarefas 100% JS](#wip)
     - [Fetch API](#wip)
 
@@ -257,6 +262,28 @@
   - [Variáveis de ambiente](#wip)
   - [Estrutura e organização](#wip)
   - [Biblioteca de componentes](#wip)
+  - [Tratamento de erros: try/catch/finally](#wip)
+  - [Async/await]
+  - [Rest API](#wip)
   - [NVM](#wip)
 
 - [Deploy de projetos reais na Vercel](#wip)
+
+- [EXTRA: JS ](#wip)
+  - [Escopos Global e local](#wip)
+  - [Escopo de block e hoisting](#wip)
+  - [Closures](#wip)
+  - [Template literals e Multi-line strings](#wip)
+  - [Spread syntax](#wip)
+  - [Destructuring assignment](#wip)
+  - [Geolocation API](#wip)
+  - [localStorage e sessionStorage](#wip)
+  - [Básico de programação orientada à objetos](#wip)
+  - [Prototypes e herança (inheritance)](#wip)
+  - [Classes, polimorfismo e encapsulamento](#wip)
+  - [Programação funcional](#wip)
+  - [Funções puras](#wip)
+  - [Funções de alta ordem](#wip)
+  - [Imutabilidade](#wip)
+  - [Modulos do ES6](#wip)
+  - [Delegação e propagação de eventos](#wip)
