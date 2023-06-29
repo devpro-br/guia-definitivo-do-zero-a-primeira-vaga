@@ -1,27 +1,71 @@
-# guia-definitivo-do-zero-a-primeira-vaga
+# Guia Definitivo Do Zero à Primeira Vaga
+
+- 📚 Guia do dev autodidata
+- 🌎 Guia para o contexto WEB
+- 👨‍🔬 Guia para iniciantes & pessoas migrando de área
+- 🏆 Guia para quem quer focar mais na prática ao invés da teoria
+- 👉 Gostou? deixa sua 🌟 ou segue este repo para receber atualizações
+- 👉 NÃO Gostou? Abra uma issue e vamos conversar o que está errado! Valeu
+- 🚧 Trabalho em andamento! Sua ajuda faz a diferença
 
 ![Trilha Fundamental](./imagens/01-trilha-fundamental.png)
 
-- 👉 Gostou? deixa sua 🌟 ou segue este repo para receber atualizações
-- 👉 Quer ajudar? [Cria uma 🐞 Issue](https://github.com/devpro-br/guia-definitivo-do-zero-a-primeira-vaga/issues) com o que quiser falar ou **faz um PR**
-- 🚧 Trabalho em andamento! Sua ajuda faz a diferença
-
 ## **Motivações**
 
-- Back ou Front?
-- Sempre alguém afirma que tem que aprender algo
-- Aprender framework antes dos fundamentos
-- Não separar a sintaxe da lógica de programação
-- Não separar JS e JS para páginas web
+- Aprender tecnologias da área WEB
+- Não sei se gosto de Backend ou de Frontend?
+- Sempre alguém afirma que tem que aprender algo antes
+- Aprender os fundamentos antes dos frameworks
+- Separar sintaxe & lógica de programação nos estudos
+- Separar JavaScript & JS para páginas web
 - Hard vs Soft Skills
 - Aprender fazendo algo real (projetos práticos)
+- A maioria dos tutoriais na internet são feitos para pessoas da área, mesmo um tutorial básico de HTML/CSS já espera que o estudante conheça um monte de coisa
 
-## Links relacionados
+## **Links relacionados**
 
 - 🚧 [Download do e-book](https://l.dev.pro.br/lp-ebook-rpv?utm_source=github&utm_campaign=link-readme)
 - 🚧 [Playlist vídeos trilha fundamental](https://www.youtube.com/watch?v=o10Rpqefe_o&list=PLA05yVJtRWYTfRv8jaLS4XJ3oQtvLFakj)
+- ▶️ [Parte 1 - Trilha Fundamental](https://www.youtube.com/watch?v=Iovy_HCZLNs&t=1110s)
 
-## FUNDAMENTAL - Tabela de Conteúdo
+## **Sequência recomendada**
+
+Esta é uma sequência pensada para que um iniciante não desista dos estudos, e que de alguma forma o estudante descubra se tem mais habilidades voltadas para o frontend ou para o backend. É claro, existem mais áreas e carreiras além destas, mas você será muito mais feliz se conseguir decidir inicialmente entre um desses dois caminhos. E mais importante, você só vai descobrir se gosta ou não, depois de fazer algo prático nestas duas áreas. A ideia geral aqui é começar mais pela parte visual e as tecnologias que estão presentes na web do lado do navegador e depois entender um pouco mais a comunicação com o lado do servidor.
+
+- **HTML**: Começar com a linguagem de marcação HTML pode ser muito bom para quem nunca teve contato com código, outro motivo é que mesmo que depois de um tempo você se descubra que gosta do "backend" e não do "frontend", entender a base desta tecnologia é fundamental no contexto WEB. E ao contrário de começar com uma linguagem de programação, onde muitas vezes temos que aprender diversos conceitos sem criar algo concreto, com HTML & CSS em pouco tempo estamos criando e vendo o resultado de páginas web de verdade.
+
+- **Aprender a aprender**: Entender um pouco de alguns conceitos sobre como aprender, vai te ajudar a reter mais conhecimento. Por exemplo, se você apenas lê ou assiste vídeos, provavelmente vai aprender muito menos do que se tivesse pausado o vídeo, digitado o código para ver ele rodando na sua máquina.
+
+- **CSS Básico**: WIP
+
+- **Intro Layout**: WIP
+
+- **Internet**: WIP
+
+- **Terminal & Linha de comando**: WIP
+
+- **Arquivo & Pastas**: WIP
+
+- **Controle de versão de código (Git)**: WIP
+
+- **Plataforma para Devs (Github)**: WIP
+
+- **Publicar página web estática (deploy)**: WIP
+
+- **Sintaxe no JavaScript**: Entender a sintaxe
+
+- **Lógica de programação com JS**: WIP
+
+## 💡 DICAS
+
+- Tenha um mentor, ache alguém mais experiente e pegue o máximo de dicas que conseguir
+- Aprender envolve fazer algo concreto com o que estudou, faça resumo, digite o código
+- Faça um planejamento de estudo, bloco de tempos dedicado para cada assunto
+- Peça ajuda e ajude os outros
+- Pratique
+- Faça um portfólio
+
+## 🏢 **Fundamentos**
 
 - [Aprender a aprender](#aprender-a-aprender)
 
@@ -148,7 +192,8 @@
   - [🏆 crie uma variável nomeDoCarro e atribua o valor "Volvo”](#wip)
   - [Escopos (var, let e const)](#wip)
   - [Palavras reservadas](#wip)
-  - [Operadores aritméticos](#wip)
+  - [Operadores aritméticos + - / \* % \*\* e Math.floor](#wip)
+  - [Operadores ++x e x++](#wip)
   - [🏆 Qual uma alternativa para atribuir x = x \* y?](#wip)
   - [🏆 Como atribuir um número aleatório na variável r?](#wip)
   - [Tipo String e suas operações](#wip)
@@ -157,8 +202,8 @@
   - [String como Array (bracket notation)](#wip)
   - [Conversão de Tipos (casting)](#wip)
   - [Desvios condicionais (if, if else, else)](#wip)
-  - [Operador de igualdade (equality & strict equality)](#wip)
-  - [Operador de desigualdade](#wip)
+  - [Operador de igualdade == e === (equality & strict equality)](#wip)
+  - [Operador de desigualdade != e !==](#wip)
   - [Operações lógicas e tabela verdade](#wip)
   - [🏆 Imprima true quando x = 10 for maior que y = 5](#wip)
   - [🏆 Corrigir o condicional](#wip)
@@ -174,11 +219,13 @@
 
 - [Uma pouco mais de JS](#wip)
   - [Iniciando com funções (functions) no JS](#wip)
-  - [Parâmetros e argumentos](#wip)
+  - [Parâmetros, Return e argumentos](#wip)
+  - [Escopo](#wip)
   - [Funções anônimas e funções flechas (arrow functions)](#wip)
   - [Primeiros passos com Objetos no JS](#wip)
+  - [Módulos, import e export](#wip)
 
-## TRILHA FRONTEND - Tabela de Conteúdo
+## **TRILHA FRONTEND** - Tabela de Conteúdo
 
 ![Trilha Frontend](./imagens/02-trilha-frontend.png)
 
@@ -213,16 +260,13 @@
   - [Entender o Callback](#wip)
   - [Entender Promise](#wip)
   - [Entender uma chamada a uma API para atualizar a página](#wip)
-
-    - [🏆 Obter a quantidade de estrelas de um repositório do github](#wip)
-    - [🏆 Obter a lista de pokemons](#wip)
-
+  - [🏆 Obter a quantidade de estrelas de um repositório do github](#wip)
+  - [🏆 Obter a lista de pokemons](#wip)
   - [Entender uma imitação do backend com API Mock](#wip)
-
-    - [Entender Client-side vs Server-side](#wip)
-    - [Dados com JSON (JavaScript Object Notation)](#wip)
-    - [🏆 Um CRUD de tarefas 100% JS](#wip)
-    - [Fetch API](#wip)
+  - [Entender Client-side vs Server-side](#wip)
+  - [Dados com JSON (JavaScript Object Notation)](#wip)
+  - [🏆 Um CRUD de tarefas 100% JS](#wip)
+  - [Fetch API](#wip)
 
 - [Mais conceitos CSS](#wip)
 
@@ -263,6 +307,7 @@
   - [Estrutura e organização](#wip)
   - [Biblioteca de componentes](#wip)
   - [Tratamento de erros: try/catch/finally](#wip)
+  - [HTTP Headers & Cookies](#wip)
   - [Async/await]
   - [Rest API](#wip)
   - [NVM](#wip)
@@ -271,6 +316,7 @@
 
 - [EXTRA: JS ](#wip)
   - [Escopos Global e local](#wip)
+  - [Entender a chave this](#wip)
   - [Escopo de block e hoisting](#wip)
   - [Closures](#wip)
   - [Template literals e Multi-line strings](#wip)
@@ -287,3 +333,71 @@
   - [Imutabilidade](#wip)
   - [Modulos do ES6](#wip)
   - [Delegação e propagação de eventos](#wip)
+  - [Type Coercion](#wip)
+  - [Strict Mode](#wip)
+  - [call, apply & bind](#wip)
+  - [Memoization](#wip)
+
+## 📚 Livros JS
+
+- 🇧🇷 [Eloquent Javascript - FREE](https://github.com/braziljs/eloquente-javascript)
+- 🇧🇷 [JavaScript - O guia definitivo, David Flanagan](https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/856583719X/)
+- 🇧🇷 [JavaScript - Guia do Programador, Maurício Samy Silva](https://www.amazon.com.br/JavaScript-Programador-completo-funcionalidades-linguagem-ebook/dp/B088SLKN48/)
+- 🇧🇷 [Vue.js - Construa aplicações incríveis, Caio Incau](https://www.casadocodigo.com.br/products/livro-vue)
+- 🇺🇸 [JavaScript Succinctly - FREE](https://www.syncfusion.com/succinctly-free-ebooks/javascript)
+- 🇺🇸 [JavaScript: The Good Parts](https://www.amazon.com.br/JavaScript-Good-Parts-English-ebook/dp/B0026OR2ZY)
+
+## ‍🎓 Cursos JS & Tutoriais
+
+- [Apostila Caelum](https://www.alura.com.br/apostila-html-css-javascript/) Pula a parte html e vai para o Javascript
+- [Freecodecamp - JS Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [Sololearn - JavaScript](https://www.sololearn.com/learning/1024)
+- [Grasshopper](https://grasshopper.app/) JS para iniciantes, dá para mudar para pt-br
+- [Tony Lâmpada - JS do básico ao avançado](https://evolutio.io/curso/ngmasters_javascript) Pula a parte de Angular
+- [Javascript.info](https://javascript.info/)
+- [Codecademy - Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Udemy - Javascript Essentials](https://www.udemy.com/course/javascript-essentials/)
+
+## ‍🎓 Docs JS
+
+- [Mdn Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [DevDocs.io](https://devdocs.io/javascript/)
+- [W3 Schools](https://www.w3schools.com/js/)
+- [Geeksforgeek](https://www.geeksforgeeks.org/javascript/)
+
+## ‍🎓 Cursos VueJS
+
+- [Tony Lâmpada - VueJS Basicão](https://evolutio.io/curso/minicurso_vuejs)
+- [Vue Mastery](https://www.vuemastery.com/)
+- [Vue Mastery - releitura em pt-br](https://github.com/huogerac/Intro-to-Vue-2)
+
+## ▶️ Canais no Youtube
+
+- [Guanabara](https://www.youtube.com/watch?v=FdePtO5JSd0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6)
+- [Rodrigo Branas](https://www.youtube.com/watch?v=093dIOCNeIc&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Filipe Deschamps](https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL)
+- [CodeWithHarry](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR)
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh/playlists)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists)
+
+## 🏆 Praticar & Lógica de programação com JS
+
+- [Hackerrank](https://www.hackerrank.com/)
+- [Codewars](https://www.codewars.com/?language=javascript)
+- [Exercism](https://exercism.org/tracks/javascript)
+- [JavaScript30](https://javascript30.com/)
+- [JSchallenger](https://www.jschallenger.com/)
+- [Javascript-exercises GH](https://github.com/TheOdinProject/javascript-exercises)
+- [10 ideas for your Projects](https://hackr.io/blog/javascript-projects) e este [outro aqui](https://github.com/guilhermemm-dev/links#ideias-de-projetos-para-o-seu-portfolio)
+
+## 🛠️ Ferramentas e outros mapas de estudo
+
+- [JavaScript Visualizer 9000](https://www.jsv9000.app/)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/brute-force/insertion-sort)
+- [Trilha.Info/front](https://www.trilha.info/roadmap/frontend)
+- [Roadmap.sh](https://roadmap.sh/frontend)
+
+## 🏟️ Outros conteúdos úteis
+
+- [Every-some-find-includes](https://desenvolvimentoparaweb.com/javascript/every-some-find-includes-javascript/)
+- [LearnVue](https://learnvue.co/tutorials)
